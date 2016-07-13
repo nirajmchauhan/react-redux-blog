@@ -1,0 +1,30 @@
+{
+  "name": "react-blog",
+  "version": "1.0.0",
+  "description": "A simple blog made in react & redux",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "redux": "*",
+    "webpack-dev-middleware":"*",
+    "webpack-hot-middleware":"*",
+    "express":"*"
+  },
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "webpack": "*"
+  },
+  "author": "Niraj Chauhan",
+  "license": "ISC"
+}
